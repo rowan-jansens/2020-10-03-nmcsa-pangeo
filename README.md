@@ -1,2 +1,2 @@
-# base_for_pangeo
-base repository for practice notebooks for use in PanGeo
+# Base repository for running Python workshop content in hosted Jupyter Notebooks
+Base repository for practice notebooks for use in PanGeo
