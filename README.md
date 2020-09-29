@@ -11,7 +11,7 @@
  - #### Session #3 1:00pm - 1:45pm (Jon Wheeler): Data workflows, automation, and visualization with Pandas and Matplotlib
  
 ### Setup:
- - #### Web Browser - This entire workshop will be run through your web browser. All you need is a mondern web browser like *Chrome*, *Firefox*, *Safari*, or *Edge* and a reasonably good Internet connection.
+ - #### Web Browser - This entire workshop will be run through your web browser. All you need is a modern web browser like *Chrome*, *Firefox*, *Safari*, or *Edge* and a reasonably good Internet connection.
  - #### GitHub - Before the workshop actually begins, you should create a [GitHub](https://github.com) account at https://github.com/join if you do not already have one. GitHub uses the Git version control system in a web-based environment that allows both individuals and teams to manage and collaborate on software code and other digital objects. We will be using GitHub as the source for an online [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/) environment called [Binder](https://mybinder.org/), which is being hosted at [Pangeo.io](https://binder.pangeo.io/). All of the components for this project are in a specific GitHub repository at https://github.com/nmcarpentries/2020-10-03-nmcsa-pangeo. To make a copy of this GitHub repository in your own GitHub account space, you should use the "fork" button at the upper right of the GitHub web page (see below). This will allow you to make modifications to existing notebooks, add new notebooks or other documents to the project, and save all of the changes to your own GitHub repository.
  
  ![GitHub repository fork](./images/fork.png)
