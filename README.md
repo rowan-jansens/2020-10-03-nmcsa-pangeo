@@ -6,9 +6,9 @@
 ### Instructors: Karl Benedict, Mark Servilla, and Jon Wheeler
 
 ### Agenda:
- - #### Session #1 10:30am - 11:15am (Mark Servilla): Introduction to Git and GitHub, Jupyter Notebooks, Python, and Pandas
- - #### Session #2 11:30am - 12:15pm (Karl Benedict): Working with data in Pandas DataFrames
- - #### Session #3 1:00pm - 1:45pm (Jon Wheeler): Data workflows, automation, and visualization with Pandas and Matplotlib
+ - #### Session #1 10:30am - 11:15am (Mark Servilla): Introduction to Git and GitHub, Jupyter Notebooks, Python, and pandas
+ - #### Session #2 11:30am - 12:15pm (Karl Benedict): Working with data in pandas DataFrames
+ - #### Session #3 1:00pm - 1:45pm (Jon Wheeler): Data workflows, automation, and visualization with pandas and Matplotlib
  
 ### Setup:
  - #### Web Browser - This entire workshop will be run through your web browser. All you need is a modern web browser like *Chrome*, *Firefox*, *Safari*, or *Edge* and a reasonably good Internet connection.
@@ -19,3 +19,10 @@
  - #### JupyterLab - [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/) (a Jupyter Notebook on steroids) is a web browser-based environment that gives you the ability to interactively program in Python (and other interpreted languages like R and Julia), write documents and annotations in [Markdown](https://www.markdownguide.org/getting-started/), directly edit text files, and provides access to a command line terminal interface for manipulating local resources. We will be using primarily the Juptyer Notebook component of JupyterLab, and a little bit of the command line terminal to interact with GitHub. To launch an individual JupyterLab session with the **2020-10-03-nmcsa-pangeo** project, click on the "launch binder" button near the top of this README document (see below). The session that launches is unique to your web browser, but it is also tied to the "NM Carpentries" GitHub repository, which we cannot use to save any local modifications to the project. To save local modifications, we will change the default GitHub repository to the one you "forked" up above. We will show you how to do this in Session #1.
  
  ![Binder launch](./images/launchbinder.png)
+ 
+### Reference
+ 
+ - This workshop is based on content from the Data Carpentries **Data Analysis and Visualization in Python for Ecologists** lesson: https://datacarpentry.org/python-ecology-lesson/
+ - Python: https://www.python.org/
+ - pandas: https://pandas.pydata.org/pandas-docs/stable/index.html#
+ - Matplotlib: https://matplotlib.org/3.3.1/index.html
