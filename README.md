@@ -6,7 +6,7 @@
 ### Instructors: Karl Benedict, Mark Servilla, and Jon Wheeler
 
 ### Agenda:
- - #### Session #1 10:30am - 11:15am (Mark Servilla): Introduction to Git and GitHub, Python, and Pandas
+ - #### Session #1 10:30am - 11:15am (Mark Servilla): Introduction to Git and GitHub, Jupyter Notebooks, Python, and Pandas
  - #### Session #2 11:30am - 12:15pm (Karl Benedict): Working with data in Pandas DataFrames
  - #### Session #3 1:00pm - 1:45pm (Jon Wheeler): Data workflows, automation, and visualization with Pandas and Matplotlib
  
