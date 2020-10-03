@@ -7,7 +7,21 @@
 #### The sessions in this workshop are based (albeit condensed due to time restrictions) on lessons in the Data Carpentry module, *Data Analysis and Visualization in Python for Ecologists*. The lessons are available at http://www.datacarpentry.org/python-ecology-lesson/, and are licensed with a Creative Commons Attribution (CC-BY-4.0) license: https://creativecommons.org/licenses/by/4.0/. The recommended citation is given here, though may be out of date:
 > John Gosset, April Wright (eds): "Data Carpentry Python Ecology lesson." Version 2017.04.0, April 2017, http://www.datacarpentry.org/python-ecology-lesson/
 
-### Pangeo Binder base with additional *Data Analysis and Visualization in Python* data files: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nmcarpentries/2020-10-03-nmcsa-pangeo/master)
+#### The data used in this workshop
+Data for this lesson is from the Portal Project Teaching Database, a large set of species data from Portal Arizona that studies the relationship between plant habitat and local fauna (animals and insects).
+
+#### Data Carpentry Code of Conduct
+ - Use welcoming and inclusive language
+ - Be respectful of different viewpoints and experiences
+ - Gracefully accept constructive criticism
+ - Focus on what is best for the community
+ - Show courtesy and respect towards other community members
+ 
+[Report a Code of Conduct violation](https://goo.gl/forms/KoUfO53Za3apOuOK2)
+
+#### [Post-workshop survey](https://carpentries.typeform.com/to/UgVdRQ?slug=2020-10-03-nmcsa-online)
+
+### Pangeo Binder launcher: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nmcarpentries/2020-10-03-nmcsa-pangeo/master)
 
 ### Instructors: Karl Benedict, Mark Servilla, and Jon Wheeler
 
