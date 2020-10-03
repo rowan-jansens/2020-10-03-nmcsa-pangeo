@@ -1,5 +1,5 @@
 <h1 align="center">NM Supercomputing Challenge</h1>
-<h1 align="center">Data Science with Python</h1>
+<h1 align="center">Track D - Data Science with Python</h1>
 <h2 align="center">3 October 2020</h2>
 
 ### Pangeo Binder base with additional *Data Analysis and Visualization in Python* data files: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nmcarpentries/2020-10-03-nmcsa-pangeo/master)
