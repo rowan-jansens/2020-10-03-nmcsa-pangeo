@@ -13,6 +13,8 @@
  - Gracefully accept constructive criticism
  - Focus on what is best for the community
  - Show courtesy and respect towards other community members
+ 
+[Report a Code of Conduct violation](https://goo.gl/forms/KoUfO53Za3apOuOK2)
 
 ### Pangeo Binder base with additional *Data Analysis and Visualization in Python* data files: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nmcarpentries/2020-10-03-nmcsa-pangeo/master)
 
