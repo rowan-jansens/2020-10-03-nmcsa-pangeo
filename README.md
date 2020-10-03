@@ -36,8 +36,10 @@
  ![Binder launch](./images/launchbinder.png)
  
 ### References
- 
- - Data Carpentries *Data Analysis and Visualization in Python for Ecologists*: https://datacarpentry.org/python-ecology-lesson/
+
+ - Data Carpentry: https://datacarpentry.org/
+ - Software Carpentry: https://software-carpentry.org/
+ - Data Carpentry *Data Analysis and Visualization in Python for Ecologists*: https://datacarpentry.org/python-ecology-lesson/
  - Python: https://www.python.org/
  - pandas: https://pandas.pydata.org/pandas-docs/stable/index.html#
  - Matplotlib: https://matplotlib.org/3.3.1/index.html
