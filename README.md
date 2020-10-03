@@ -2,6 +2,11 @@
 <h1 align="center">Track D - Data Science with Python</h1>
 <h2 align="center">3 October 2020</h2>
 
+### Overview
+
+#### The sessions in this workshop are based (albeit condensed due to time restrictions) on lessons in the Data Carpentry module, *Data Analysis and Visualization in Python for Ecologists*. The lessons are available at http://www.datacarpentry.org/python-ecology-lesson/, and are licensed with a Creative Commons Attribution (CC-BY-4.0) license: https://creativecommons.org/licenses/by/4.0/. The recommended citation is given here, though may be out of date:
+> John Gosset, April Wright (eds): "Data Carpentry Python Ecology lesson." Version 2017.04.0, April 2017, http://www.datacarpentry.org/python-ecology-lesson/
+
 ### Pangeo Binder base with additional *Data Analysis and Visualization in Python* data files: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nmcarpentries/2020-10-03-nmcsa-pangeo/master)
 
 ### Instructors: Karl Benedict, Mark Servilla, and Jon Wheeler
@@ -13,11 +18,6 @@
  - #### Session #2 11:30am - 12:15pm (Karl Benedict): Working with data in pandas DataFrames
  - #### Session #3 1:00pm - 1:45pm (Jon Wheeler): Data workflows, automation, and visualization with pandas and Matplotlib
  
-### Overview
-
-#### The sessions in this workshop are based (albeit condensed due to time restrictions) on lessons in the Data Carpentry module, *Data Analysis and Visualization in Python for Ecologists*. The lessons are available at http://www.datacarpentry.org/python-ecology-lesson/, and are licensed with a Creative Commons Attribution (CC-BY-4.0) license: https://creativecommons.org/licenses/by/4.0/. The recommended citation is given here, though may be out of date:
-> John Gosset, April Wright (eds): "Data Carpentry Python Ecology lesson." Version 2017.04.0, April 2017, http://www.datacarpentry.org/python-ecology-lesson/
-
 ### Quick Setup
  1. #### Create GitHub account and fork the [2020-10-03-nmcsa-pangeo](https://github.com/nmcarpentries/2020-10-03-nmcsa-pangeo) repository
  1. #### Launch the [Pangeo-Binder](https://binder.pangeo.io/v2/gh/nmcarpentries/2020-10-03-nmcsa-pangeo/master) cloud-based Jupyter Lab environment
